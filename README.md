@@ -1,5 +1,9 @@
 ## Overview
 
+API production link: https://jl0qxmh3o5.execute-api.ap-southeast-1.amazonaws.com/v1/
+
+Postman Collections: https://api.postman.com/collections/25891575-2e91225e-00a2-4c77-a404-20bed50dce70?access_key=PMAT-01GYQXKDZ76PTZ4D9CDJFM3ZN5
+
 Envoriment Require: Node 14+
 
 1. Install dependency
